@@ -1,0 +1,254 @@
+gid,c_etat_valid,c_nom,c_lat_coor1,c_long_coor1,c_acc,c_acc_lib,c_disp_j,c_disp_h,c_etat_fonct,c_doublon,is_24_7
+9255,validées,SCHILLER FRED EASY,46.1399,-1.1528,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9256,validées,SCHILLER FRED EASY,46.1523,-1.15353,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9258,validées,SCHILLER FRED EASY 2G,46.1522,-1.15321,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9259,validées,SCHILLER FRED EASY 2G,46.143,-1.15807,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9261,validées,SCHILLER FRED EASY,46.1391,-1.14483,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9262,validées,SCHILLER FRED EASY LIFE 2G,46.1374,-1.14343,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""non renseigné""}",En fonctionnement,f,False
+9263,validées,SCHILLER FRED EASY LIFE 2G,46.1389,-1.14513,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9264,validées,SCHILLER FRED EASY 2G,46.1419,-1.15216,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9265,validées,SCHILLER FRED EASY 2G,46.1522,-1.15394,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9266,validées,SCHILLER FRED EASY LIFE 2G,46.1519,-1.15389,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9267,validées,SCHILLER FRED EASY 2G,46.1469,-1.15588,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9268,validées,SCHILLER FRED EASY,46.1464,-1.15657,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+9273,validées,SCHILLER FRED EASY 2G,46.1479,-1.15494,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+13512,validées,DAE HALL ACCUEIL HOP. SAINT LOUIS,46.1596,-1.1436,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+13788,validées,DAE-Innov'ia Pôle Usine,46.1502,-1.20743,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+13789,validées,DAE Innov'ia - Agrocéan,46.1497,-1.20861,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+13790,validées,DAE Innov'ia - Premium,46.1508,-1.20728,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+13792,validées,DAE Innov'ia - IDCAPS,46.1487,-1.20489,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+16945,validées,ESCALE-AJA LAGORD,46.1907,-1.14081,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+16949,validées,ESCALE-EHPAD,46.1612,-1.1455,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+16950,validées,ESCALE-MAHUT,46.1698,-1.14895,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+16951,validées,ESCALE-LES-CORDELIERS,46.1641,-1.14529,Intérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+16952,validées,ESCALE-SIAE,46.1319,-1.10981,Extérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+20164,validées,CREOCEAN LR,46.1493,-1.20359,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+21459,validées,MÈdiathèque Michel crepeau,46.1536,-1.15332,Intérieur,f,{lundi},"{""heures ouvrables""}",En fonctionnement,f,False
+22645,validées,1281,46.152,-1.12159,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+22678,validées,2833,46.1781,-1.15448,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+22701,validées,3584,46.1764,-1.11032,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+26495,validées,DAE LA ROCHELLE - Maison Mer,46.1496,-1.21062,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+30413,validées,DAE-Atmo Nouvelle Aquitaine - Pôle de LA ROCHELLE,46.1632,-1.09717,Intérieur,f,"{jeudi,lundi,mardi,mercredi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+32578,validées,Z diffusion / Z spars,46.1608,-1.1029,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+35218,validées,DAE Biocoop Regain Lagord,46.1746,-1.16047,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+35432,validées,DAE - Les Compagnons du Devoir - La Rochelle,46.153,-1.11908,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""non renseigné""}",En fonctionnement,f,False
+35893,validées,DAE HYPER U LA ROCHELLE,46.1753,-1.11763,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+35955,validées,DAE UTILE LA ROCHELLE PORT NEUF,46.1599,-1.17894,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+35983,validées,DAE COOP LA ROCHELLE NORMANDIN,46.1471,-1.14336,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+36006,validées,DAE COOP LA ROCHELLE AMELOT,46.1608,-1.14869,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+36008,validées,DAE COOP L'HOUMEAU,46.1933,-1.1874,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+37811,validées,SCHILLER FRED EASY LIFE,46.1416,-1.14968,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+38662,validées,Batiment Vaucanson,46.1648,-1.1031,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+38663,validées,Conservatoire de Musique,46.1611,-1.14651,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+38664,validées,Lab intech,46.1847,-1.14677,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+38668,validées,Bâtiment Maison de l'Emploi,46.1688,-1.1693,Intérieur,t,"{lundi,mardi,mercredi,vendredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+38671,validées,PISCINE PALMILUD,46.1576,-1.10091,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+38672,validées,PISCINE LA ROCHELLE,46.1689,-1.15312,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+38673,validées,PISCNE LA ROCHELLE,46.1691,-1.15306,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+38675,validées,BATIMENT DES DAMES BLANCHES,46.1598,-1.14945,Intérieur,f,"{mardi,jeudi,mercredi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+38677,validées,MEDIATHEQUE MICHEL CREPEAU,46.1531,-1.15338,Intérieur,t,"{lundi,mardi,mercredi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+39204,validées,DAE - EFS La Rochelle,46.1595,-1.14322,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+40666,validées,DAE-Picoty-RueBéthencourt-17000LaRochelle,46.1683,-1.20943,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+41109,validées,SCHILLER FRED-PA1,46.1914,-1.14869,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+43540,validées,DAE AUREA LA ROCHELLE,46.1493,-1.20734,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+43593,validées,POWERHEART G5,46.1728,-1.21126,Intérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+44275,validées,DAE GTO - LA ROCHELLE,46.1737,-1.20458,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+48036,validées,DAE-Manpower-Jean Monnet,46.1702,-1.14632,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+50314,validées,DAE-CCI LA ROCHELLE,46.1724,-1.14967,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+54506,validées,Cardiac Science,46.1751,-1.20254,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+60348,validées,La Rochelle (Périgny) / 301007368,46.1557,-1.11237,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+61166,validées,ENTREE,46.1651,-1.10354,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+62399,validées,DAE Avi-Charente Laboratoire,46.13,-1.10063,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi,""jours fériés""}",{24h/24},En fonctionnement,f,False
+64378,validées,APF France HANDICAP,46.132,-1.1163,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+64553,validées,NEWLOC - PERIGNY,46.1647,-1.09663,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+65231,validées,MCDONALD'S - PUILBOREAU,46.1776,-1.1029,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+65233,validées,MCDONALD'S - LAGORD,46.1751,-1.1701,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+65234,validées,MCDONALD'S - LES MINIMES,46.1481,-1.1532,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+67082,validées,BIG MAT LIBAUD NEGOCE MATERIAUX,46.1388,-1.1193,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+80141,validées,FRED PA-1 ENTIEREMENT AUTOMATIQUE,46.1441,-1.15851,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+84481,validées,Complexe sportif Falorni,46.1425,-1.14978,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+84482,validées,Groupe scolaire Jean Bart,46.16652,-1.1735646,Intérieur,f,"{événements,lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+86010,validées,LV TEC LA ROCHELLE,46.157,-1.202,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+87663,validées,Mindray C1A DEA,46.170605,-1.1748703,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+90656,validées,CAF_VILLENEUVE,46.1592,-1.14689,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+90657,validées,CAF_SIEGE_LA_ROCHELLE,46.1626,-1.15917,Intérieur,t,"{lundi,mercredi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95289,validées,Salle des Fêtes VLS ,46.1509,-1.11849,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95410,validées,Maison des associations Laleu,46.1675,-1.20055,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95411,validées,Salle de l'Oratoire,46.1633,-1.15209,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95435,validées,Salle Emile Combes,46.1602,-1.16425,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95437,validées,Salle des fêtés de La Pallice,46.1613,-1.21111,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95447,validées,Maison associassions de Bongraines ,46.1397,-1.1459,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95448,validées,Salle de saint Éloi,46.1663,-1.13387,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95450,validées,Salle des fêtes de Tasdon,46.148354,-1.1438314,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95451,validées,Salle de la Trompette,46.1704,-1.15854,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95453,validées,Salle des fêtes petit marseille ,46.158,-1.1323,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95454,validées,Salle du Prieuré,46.177464,-1.1462448,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95455,validées,Espace Bernard GIRAUDEAU,46.1684,-1.18552,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95456,validées,Salle France Vatré,46.1735,-1.14048,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95457,validées,Salle du clos Margat,46.1598,-1.12447,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95458,validées,Salle Curé Crampette,46.1718,-1.15509,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95459,validées,Salle de l'Azimut,46.1685,-1.18003,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95460,validées,Parking de Verdun,46.1623,-1.15299,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95461,validées,Parking Vieux Port,46.1541,-1.14903,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+95462,validées,Parking saint Jean D'Acre,46.1554,-1.15747,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95463,validées,Stade de foot Le Parco,46.1732,-1.17734,Extérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+95464,validées,Gaston Neveur salle de Basquet,46.1671,-1.15373,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95467,validées,Complexe sportif Ruibet,46.1666,-1.14517,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95468,validées,Gymnase des Parcs,46.1684,-1.15341,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95469,validées,Gymnase de laleu,46.1663,-1.20461,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95470,validées,Gymnase pas des laquais,46.1733,-1.17381,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95471,validées,Terrain de foot André Bracq,46.1688,-1.20265,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95472,validées,Boulodromes ,46.1597,-1.19974,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95487,validées,Salle de Musculation VLS,46.1508,-1.11799,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95489,validées,Complexe sportif Vendome,46.1783,-1.15519,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95492,validées,Salle de musculation Mireuil,46.1671,-1.17914,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95493,validées,Salle Haltérophilie Mireuil,46.1675,-1.1837,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95495,validées,Complexe sportif la Pinelière,46.19095,-1.1673591,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95496,validées,Complexe sportif Bouffenie,46.165,-1.17159,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95499,validées,Camping du Soleil,46.1507,-1.15811,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+95500,validées,Grand Arsenal,46.1603,-1.14834,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95501,validées,Hotel de Ville,46.1597,-1.15118,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+95502,validées,Mairie annexe la passerelle,46.1658,-1.17975,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+95503,validées,Centre technique municipal,46.1625,-1.11417,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95506,validées,Médiathèque VLS,46.1515,-1.12476,Intérieur,f,"{lundi,mercredi,jeudi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+95507,validées,Marché central,46.1616,-1.14896,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95508,validées,Ferme du petit Brouage,46.1576,-1.1324,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95509,validées,Auberge de jeunesse,46.1443,-1.16182,Intérieur,f,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+95513,validées,Maison des écritures,46.15704,-1.1721426,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95515,validées,Archives,46.168915,-1.1849594,Intérieur,f,"{mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95517,validées,Maison du Portugal,46.1729,-1.13405,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95518,validées,Musée maritime,46.1503,-1.15096,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95519,validées,Musée maritime Extérieur,46.1502,-1.15136,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+95555,validées,Musée histoire Naturel,46.1649,-1.15127,Intérieur,f,"{mardi,mercredi,jeudi,vendredi,samedi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+95556,validées,Musée nouveau monde,46.1615,-1.15122,Intérieur,f,"{lundi,mercredi,jeudi,vendredi,samedi,dimanche}","{""heures ouvrables""}",En fonctionnement,f,False
+95557,validées,Centre social le Pertuis,46.1704,-1.17854,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95825,validées,Centre social VLS,46.1516,-1.12518,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95829,validées,Centre social Tasdon/Minimes,46.1429,-1.14755,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95831,validées,Centre social vents des iles,46.1634,-1.21046,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95832,validées,Eglise sacré coeur,46.16,-1.17077,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+95833,validées,Eglise Notre Dame,46.1637,-1.14643,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+95834,validées,Eglise saint sauveur,46.1587,-1.15051,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+95837,validées,Paroisse  Saint Pierre,46.1653,-1.20017,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95838,validées,Mosquée,46.1663,-1.17751,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95839,validées,Temples Protestants,46.1597,-1.15017,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95844,validées,Chapelle st Vincent,46.1643,-1.15161,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95845,validées,Chapelle Fromentin,46.1635,-1.1504,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+95850,validées,Ecole Barthelemy Profit,46.1538,-1.13258,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95859,validées,Zoll® AED+ (DSA),46.179466,-1.1004311,Intérieur,f,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+95860,validées,Zoll® AED+ (DSA),46.178646,-1.104971,Intérieur,f,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+95861,validées,Zoll® AED+ (DSA),46.17883,-1.105596,Intérieur,f,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+95887,validées,Ecole Condorcet,46.1531,-1.12064,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95890,validées,Ecole Simone Veil / Prieuré,46.1744,-1.1484,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95892,validées,Ecole Massiou,46.1651,-1.14946,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95893,validées,Ecole de Beauregard,46.1732,-1.13387,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95898,validées,Groupe scolaire Raymond Bouchet,46.1481,-1.1446,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95904,validées,Ecole la genette Primaire,46.1592,-1.16825,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+95909,validées,Ecole Valin /Rey,46.1578,-1.14794,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+96006,validées,Ecole de Bongraine,46.1417,-1.14285,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96007,validées,Ecole Claude Nicolas,46.162296,-1.2118002,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96008,validées,Ecole Descartes,46.1552,-1.18241,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96009,validées,Ecole de Laleu,46.1678,-1.20019,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96011,validées,Ecole de laleu Gymnase,46.1679,-1.19966,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96014,validées,Ecole des Grandes Varennes,46.171078,-1.1795071,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96017,validées,Ecole Louis Guillet Primaire,46.1699,-1.18653,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96018,validées,Ecole Louis Guillet maternelle,46.1701,-1.18495,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96022,validées,Ecole Réaumur,46.1638,-1.15484,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96026,validées,Ecole Bernard Palissy,46.1702,-1.1631,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96028,validées,Services Pierre Loti,46.1633,-1.17552,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96029,validées,Ecole Pierre Loti Primaire,46.1636,-1.17546,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96031,validées,Ecole Marcelin Berthelot,46.1635,-1.18564,Intérieur,f,"{lundi,mardi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96154,validées,Ecole de voile les plates,46.1515,-1.18816,Intérieur,f,"{mercredi,jeudi,vendredi,samedi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96394,validées,Centre social Port Neuf,46.1582,-1.18037,Intérieur,f,"{mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+96800,validées,DEA Résidence le Marabout,46.1538,-1.17674,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+97650,validées,Ecole de voile les Minimes,46.1438,-1.16619,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+98050,validées,DAE BK Puilboreau,46.1759,-1.1142,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+98055,validées,DAE BK La Rochelle,46.147,-1.15414,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+99481,validées,Ecole Lavoisier,46.1539,-1.12677,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+100197,validées,ATLANTIQUE ALIMENTAIRE LA ROCHELLE,46.1523,-1.2087,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+100363,validées,Crématorium,46.17461,-1.1816202,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+101988,validées,WOOD STREET GRAND OUEST,46.1517,-1.20694,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+104626,validées,Centre Horticole,46.1767,-1.17376,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+105519,validées,ZOLL AEDPLUS SPIP 17 RA LA ROCHELLE,46.1556,-1.15005,Intérieur,t,"{lundi,vendredi,mardi,mercredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+106879,validées,DAE - DDTS - LA ROCHELLE - ACCEUIL,46.1666,-1.15108,Intérieur,t,"{mardi,lundi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+106911,validées,DAE - DDTM PER LALEU - RDC,46.1758,-1.20387,Intérieur,t,"{lundi,mardi,jeudi,mercredi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+108029,validées,MILLE STOCKS PUILBOREAU,46.1767,-1.1167,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+112919,validées,FRED PA-1 ENTIEREMENT AUTOMATIQUE,46.1581,-1.1713,Intérieur,f,"{lundi,vendredi,mardi,mercredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+113931,validées,Mindray C2 DEA,46.159405,-1.1024625,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+115847,validées,DAE Cardiac Science,46.1702,-1.17012,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+116998,validées,HDM DEVELOPPEMENT,46.1621,-1.11132,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+120611,validées,Cimetière de st Eloi,46.1634,-1.13025,Extérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+121058,validées,Centre social Christiane Faure,46.1644,-1.14585,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+122363,validées,Marché de la Pallice,46.1619,-1.20487,Intérieur,t,{dimanche},"{""heures ouvrables""}",En fonctionnement,f,False
+124076,validées,YELO MOBILITES - Maison de la Mobilité,46.1624,-1.15419,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+124078,validées,YELO MOBILITES - Atelier dépôt bus,46.1775,-1.15739,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+127418,validées,Couleur Marché Sautel,46.1669,-1.1358,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+128336,validées,MAISON DE SANTE ET SOINS A DOMICILE,46.1656,-1.1831,Intérieur,f,"{vendredi,lundi,mardi,mercredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+128347,validées,B&B HOTEL LES MINIMES,46.1488,-1.15361,Intérieur,f,{7j/7},{24h/24},En fonctionnement,f,True
+128366,validées,ACCUEIL BELU PLATINE,46.1493,-1.20432,Intérieur,f,"{lundi,vendredi,mardi,mercredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+129353,validées,DAE-CTM Puilboreau,46.1855,-1.11093,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+129393,validées,DAE-Le Cube espace multiculturel,46.1867,-1.10762,Intérieur,f,{événements},"{""non renseigné""}",En fonctionnement,f,False
+129394,validées,DAE- Parc de la mairie,46.1878,-1.11944,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+129413,validées,DAE-Salle de Baillac,46.1846,-1.11761,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+129416,validées,DAE- Salle polyvalente,46.1863,-1.11596,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+129422,validées,DAE- Complexe sportif la Tourtillere,46.1902,-1.10159,Extérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+129425,validées,DAE-TENNIS,46.1916,-1.10355,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+129549,validées,DEFIBRILLATEUR AUTOMATISÉ EXTERNE,46.1769,-1.10694,Extérieur,f,"{lundi,mardi,mercredi,jeudi,samedi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+151554,validées,ARMORINE LAGORD,46.1886,-1.14501,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+152872,validées,Résidence de la Genette La Rochelle,46.162376,-1.169528,Intérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+154709,validées,DAE COOP LA ROCHELLE DUPATY,46.160034,-1.15232,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+158604,validées,Dp Services,46.159424,-1.152633,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+159814,validées,GROUPE EXCEL - SCM LE PHARE,46.164585,-1.197948,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+159957,validées,GRAINOCEAN SAS,46.150017,-1.211773,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+160672,validées, S - PACE,46.14106,-1.159917,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+160718,validées,Sarl JCG,46.17293,-1.111549,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+162964,validées,HDM BEAULIEU,46.17352,-1.119467,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+163770,validées,SAJU COMPANY,46.13183,-1.099527,Intérieur,t,"{""non renseigné""}","{""heures ouvrables""}",En fonctionnement,f,False
+166223,validées,PA-1 entièrement automatique,46.174034,-1.1179104,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+166226,validées,PA-1 entièrement automatique,46.160275,-1.1062949,Intérieur,f,"{lundi,mardi,vendredi,mercredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+167255,validées,DARTY LA ROCHELLE,46.175,-1.12329,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+170628,validées,DAE Infirmerie,46.155533,-1.195485,Intérieur,t,{7j/7},{24h/24},En fonctionnement,f,True
+174299,validées,CINEMA CGR LA ROCHELLE LE DRAGON,46.157707,-1.1536585,Intérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+174300,validées,GROUPE CGR CINEMAS ATELIER,46.1588,-1.1057178,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+174301,validées,GROUPE CGR CINEMAS SIEGE,46.16132,-1.1090053,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+180233,validées,Relais Nature la Moulinette,46.147,-1.1219965,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+184899,validées,AIVIA 100 rouge,46.178368,-1.1211003,Intérieur,t,"{lundi,mardi,mercredi,jeudi,vendredi,samedi,""jours fériés""}","{""heures ouvrables""}",En fonctionnement,f,False
+185723,validées,GTM BATIMENT,46.150917,-1.119848,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+185725,validées,EHPAD MISSAOU,46.164543,-1.1471429,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+185741,validées,HALL APIVIA PARC,46.15995,-1.1872072,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+185747,validées,PLAINE DE JEUX,46.15924,-1.1867055,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+185750,validées,ZONE COMPETITION,46.157722,-1.1783884,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+185753,validées,POSTE DE SECOURS JACKSON,46.15819,-1.1793462,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+185754,validées,ACCUEIL SIEGE,46.1587,-1.1795474,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+185996,validées,SALLE FRANCE VATRE,46.17135,-1.142368,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+185999,validées,MEDIATHEQUE VLS,46.15195,-1.124819,Intérieur,f,"{lundi,mercredi,jeudi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+186001,validées,GS CLAUDE NICOLAS,46.157593,-1.149389,Intérieur,f,"{lundi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186002,validées,ECOLE MASSIOU,46.164955,-1.149155,Intérieur,f,"{mardi,lundi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186008,validées,ECOLE VALIN REY,46.157326,-1.147894,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186009,validées,SALLE DE BONGRAINE,46.142956,-1.147233,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+186011,validées,THEATRE DU VELODROME,46.169193,-1.143752,Intérieur,f,"{mardi,lundi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186013,validées,STADE RUIBET,46.166042,-1.145964,Extérieur,t,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+186014,validées,CENTRE SOCIAL CHRISTIANE FAURE,46.16139,-1.148697,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186015,validées,GS LOUIS GUILLET,46.17029,-1.184668,Intérieur,f,"{lundi,jeudi,vendredi,mardi}","{""heures ouvrables""}",En fonctionnement,f,False
+186017,validées,SALLE DE PALLICE,46.161217,-1.210966,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+186019,validées,SALLE DE TADSON,46.148357,-1.144436,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+186020,validées,MAIRIE ANNEXE LA PASSERELLE,46.165848,-1.179433,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186021,validées,GS LE PRIEURE,46.1738,-1.148605,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186022,validées,ECOLE PRIMAIRE LA GENETTE,46.159424,-1.168411,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186024,validées,ECOLE BEAUREGARD,46.17297,-1.133511,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186025,validées,FERME DU PETIT BROUAGE,46.15854,-1.130247,Intérieur,f,{7j/7},"{""heures ouvrables""}",En fonctionnement,f,False
+186026,validées,GS LES GRANDES VARENNE,46.17153,-1.178521,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186027,validées,GS RAYMOND BOUCHET,46.14768,-1.145261,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186029,validées,HOTEL DE VILLE LA ROCHELLE,46.160343,-1.154781,Intérieur,f,"{lundi,mercredi,mardi,jeudi,vendredi,samedi}","{""heures ouvrables""}",En fonctionnement,f,False
+186030,validées,MUSEE DU NOUVEAU MONDE,46.16138,-1.150749,Intérieur,f,"{lundi,mercredi,jeudi,vendredi,samedi,dimanche}","{""heures ouvrables""}",En fonctionnement,f,False
+186033,validées,GS DESCARTES,46.15909,-1.179837,Intérieur,f,"{lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186034,validées,GS PIERRE LOTI,46.163116,-1.176028,Intérieur,f,"{lundi,mardi,vendredi,jeudi}","{""heures ouvrables""}",En fonctionnement,f,False
+186035,validées,SALLE DU CLOS MARGAT,46.159744,-1.125698,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+186036,validées,GYMNASE PAS DES LAQUAIS,46.170887,-1.173457,Intérieur,f,"{événements,mercredi,lundi,mardi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186038,validées,BOULODROME,46.1596,-1.199533,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
+186039,validées,GYMNASE GS LALEU,46.16764,-1.198395,Intérieur,f,"{événements,mardi,mercredi,jeudi,vendredi,lundi}","{""heures ouvrables""}",En fonctionnement,f,False
+186040,validées,ECOLE ARCERE,46.164154,-1.151269,Intérieur,f,"{mardi,lundi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186041,validées,STADE LE PARCO,46.17342,-1.176639,Intérieur,f,"{lundi,mardi,mercredi,jeudi,vendredi,événements}","{""heures ouvrables""}",En fonctionnement,f,False
+186042,validées,CHAPELLE FROMENTIN ,46.163406,-1.150489,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+186043,validées,CHAPELLE SAINT VINCENT,46.164127,-1.151715,Intérieur,f,"{""non renseigné""}","{""non renseigné""}",En fonctionnement,f,False
+186045,validées,GS LALEU,46.165363,-1.201375,Intérieur,f,"{mardi,lundi,jeudi,vendredi}","{""heures ouvrables""}",En fonctionnement,f,False
+186047,validées,SALLE DU PRIEURE,46.177345,-1.146189,Intérieur,f,{événements},"{""heures ouvrables""}",En fonctionnement,f,False
