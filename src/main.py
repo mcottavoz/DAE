@@ -11,7 +11,7 @@ from pathlib import Path
 # Bibliothèque permettant de créer des cartes interactives
 import folium
 
-# Bibliothèque permettant de récupérer des données géographiques depuis OpenStreetMap
+# Bibliothèque permettant de récupérer des données géographiques depuis OpenStreetMap.
 import osmnx as ox
 
 # Permet de regrouper plusieurs marqueurs sur la carte
