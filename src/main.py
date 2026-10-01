@@ -5,7 +5,7 @@ from __future__ import annotations
 
 
 import argparse
-import random
+import csv
 from pathlib import Path
 
 # Bibliothèque permettant de créer des cartes interactives
@@ -19,6 +19,9 @@ from folium.plugins import MarkerCluster
 
 # Représente un point géographique
 from shapely.geometry import Point
+
+
+DEFAULT_DAE_FILE = Path(__file__).parent / "Fichier_csv" / "geodae_larochelle.csv"
 
 
 def get_place_geometry(place: str):
@@ -38,46 +41,30 @@ def get_place_geometry(place: str):
     return ox.geocode_to_gdf(place).geometry.union_all()
 
 
-def random_point_in_geometry(
-    geometry,
-    generator: random.Random
-) -> Point:
-    """Génère un point aléatoire contenu dans une géométrie."""
+def load_dae_points(csv_path: Path, geometry) -> list[Point]:
+    """Charge les DAE du CSV et conserve ceux couverts par la zone OSM."""
 
-    # Récupère les limites de la zone :
-    #
-    # min_x = longitude minimale
-    # min_y = latitude minimale
-    # max_x = longitude maximale
-    # max_y = latitude maximale
-    min_x, min_y, max_x, max_y = geometry.bounds
+    dae_points = []
+    with csv_path.open(newline="", encoding="utf-8") as csv_file:
+        for row in csv.DictReader(csv_file):
+            try:
+                point = Point(
+                    float(row["c_long_coor1"]),
+                    float(row["c_lat_coor1"]),
+                )
+            except (KeyError, TypeError, ValueError):
+                continue
 
-    # On essaye au maximum 1000 fois
-    # de trouver un point situé à l'intérieur de la zone.
-    for _ in range(1_000):
+            if geometry.covers(point):
+                dae_points.append(point)
 
-        # Génère une longitude et une latitude aléatoires
-        # à l'intérieur du rectangle contenant la zone.
-        point = Point(
-            generator.uniform(min_x, max_x),
-            generator.uniform(min_y, max_y),
-        )
-
-        # Vérifie si le point est réellement à l'intérieur
-        # de la géométrie.
-        if geometry.contains(point):
-            return point
-
-    # Si aucun point n'a été trouvé après 1000 essais,
-    # on retourne un point représentatif de la géométrie.
-    return geometry.representative_point()
+    return dae_points
 
 
 def create_map(
     place: str = "La Rochelle, France",
-    seed: int | None = None,
     dae_points: list[Point] | None = None,
-    dae_count: int = 5,
+    dae_file: Path = DEFAULT_DAE_FILE,
 ) -> folium.Map:
     """Construit la carte interactive avec des DAE regroupables par zoom."""
 
@@ -87,21 +74,12 @@ def create_map(
     # "La Rochelle, France"
     geometry = get_place_geometry(place)
 
-    # Si aucun point de DAE n'a été fourni manuellement...
+    # Si aucun point de DAE n'a été fourni manuellement, ils sont lus dans le
+    # CSV puis filtrés avec la géométrie OSM du lieu demandé.
     if dae_points is None:
-
-        # Création d'un générateur aléatoire.
-        #
-        # seed permet de reproduire exactement
-        # les mêmes points aléatoires.
-        generator = random.Random(seed)
-
-        # Création de dae_count points aléatoires
-        # à l'intérieur de la ville.
-        dae_points = [
-            random_point_in_geometry(geometry, generator)
-            for _ in range(dae_count)
-        ]
+        dae_points = load_dae_points(dae_file, geometry)
+    else:
+        dae_points = [point for point in dae_points if geometry.covers(point)]
 
     # Trouve un point représentatif de la zone.
     # Il servira à déterminer le centre initial de la carte.
@@ -193,30 +171,11 @@ def main() -> None:
         help="Fichier HTML de sortie.",
     )
 
-    # Argument permettant de choisir la seed.
-    #
-    # Exemple :
-    # python script.py --seed 42
     parser.add_argument(
-        "--seed",
-        type=int,
-        help="Graine optionnelle pour reproduire le point."
-    )
-
-    # Argument permettant de choisir le nombre de DAE.
-    #
-    # Exemple :
-    # python script.py --count 20
-    #
-    # choices=range(1, 101)
-    # signifie qu'on accepte uniquement les valeurs
-    # comprises entre 1 et 100.
-    parser.add_argument(
-        "--count",
-        type=int,
-        default=5,
-        choices=range(1, 101),
-        help="Nombre de DAE de démonstration (entre 1 et 100).",
+        "--dae-file",
+        type=Path,
+        default=DEFAULT_DAE_FILE,
+        help="CSV contenant les coordonnées des DAE.",
     )
 
     # Analyse les arguments fournis dans le terminal.
@@ -224,8 +183,7 @@ def main() -> None:
 
     # Création de la carte puis sauvegarde dans le fichier HTML.
     create_map(
-        seed=args.seed,
-        dae_count=args.count
+        dae_file=args.dae_file,
     ).save(args.output)
 
     # Message affiché dans le terminal
