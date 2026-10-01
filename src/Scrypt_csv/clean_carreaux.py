@@ -13,6 +13,8 @@ OUTPUT_COORDINATE_COLUMNS = (
 	"lat_bas_gauche",
 	"lon_haut_droit",
 	"lat_haut_droit",
+	"lon_centre",
+	"lat_centre",
 )
 
 transformer = Transformer.from_crs(
@@ -67,12 +69,17 @@ def clean_csv(input_path: Path, output_path: Path) -> int:
 					lon_haut_droit, lat_haut_droit = transformer.transform(
 						x + SQUARE_SIZE, y + SQUARE_SIZE
 					)
+					lon_centre, lat_centre = transformer.transform(
+						x + SQUARE_SIZE / 2, y + SQUARE_SIZE / 2
+					)
 					row.update(
 						{
 							"lon_bas_gauche": lon_bas_gauche,
 							"lat_bas_gauche": lat_bas_gauche,
 							"lon_haut_droit": lon_haut_droit,
 							"lat_haut_droit": lat_haut_droit,
+							"lon_centre": lon_centre,
+							"lat_centre": lat_centre,
 						}
 					)
 					writer.writerow(row)
